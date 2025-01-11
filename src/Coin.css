@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.Coin img {
+    width: 150px;
+    height: 150px;
+}
+
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
